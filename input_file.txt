@@ -1,0 +1,708 @@
+017-11-27 14:46:32.600 FirmwareVersion:  1.0002- 0.0351 
+2018-02-04 21:12:00.270 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fb ff fa ff fd ff 00 00 00 00 fe ff fa ff
+                                       fb ff fc ff fd ff fc ff fb ff fe ff fe ff fc ff
+                                       fd ff fe ff fc ff fd ff 01 00 00 00 fc ff fb ff
+                                       fc ff fb ff fa ff fb ff fa ff fb ff f8 ff fb ff
+                                       fa ff fb ff fe ff 00 00 fe ff 00 00 00 00 00 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 ff ff 01 00 01 00 fe ff fd ff 00 00
+                                       00 00 00 00 02 00 04 00 04 00 04 00 00 00 ff ff
+                                       01 00 01 00 00 00 ff ff 00 00 ff ff 00 00 00 00
+                                       ff ff 00 00 00 00 02 00 00 00 00 00 ff ff 00 00
+                                       02 00 02 00 02 00 ff ff fe ff fd ff fe ff fd ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a fa ff f4 ff f7 ff f9 ff ff ff fe ff fe ff
+                                       fe ff 01 00 03 00 01 00 00 00 ff ff fc ff 01 00
+                                       09 00 0c 00 09 00 08 00 03 00 fe ff 00 00 ff ff
+                                       f6 ff f9 ff f7 ff f9 ff f7 ff f7 ff f9 ff fb ff
+                                       ff ff fe ff fe ff fc ff fe ff 00 00 ff ff fc ff
+                                       fc ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 00 00 fe ff fe ff 00 00 fe ff 00 00 03 00
+                                       02 00 03 00 00 00 00 00 03 00 02 00 00 00 00 00
+                                       00 00 00 00 fe ff fe ff fc ff f9 ff fa ff fb ff
+                                       fe ff fc ff fb ff fa ff fb ff fc ff ff ff 00 00
+                                       00 00 00 00 01 00 ff ff fd ff fe ff fe ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 02 00 02 00 04 00 06 00 07 00 02 00 00 00
+                                       00 00 ff ff 00 00 00 00 00 00 00 00 02 00 06 00
+                                       07 00 08 00 07 00 0a 00 07 00 02 00 02 00 00 00
+                                       02 00 00 00 00 00 02 00 02 00 02 00 02 00 02 00
+                                       02 00 04 00 04 00 02 00 ff ff fc ff ff ff 03 00
+                                       03 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b fe ff 03 00 05 00 00 00 f7 ff f3 ff ee ff
+                                       ec ff f4 ff f9 ff f5 ff fa ff f4 ff f7 ff 05 00
+                                       fa ff fa ff fe ff fe ff fe ff fa ff 00 00 fd ff
+                                       ff ff 12 00 0e 00 11 00 11 00 0d 00 0a 00 03 00
+                                       07 00 05 00 03 00 03 00 01 00 fe ff 00 00 02 00
+                                       02 00
+2018-02-04 21:12:10.320 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 02 00 01 00 00 00 00 00 00 00 00 00 01 00
+                                       02 00 03 00 02 00 00 00 00 00 01 00 00 00 01 00
+                                       04 00 00 00 fe ff fc ff 02 00 01 00 ff ff ff ff
+                                       ff ff ff ff 00 00 f8 ff f7 ff f8 ff f9 ff fe ff
+                                       00 00 fe ff 00 00 00 00 01 00 02 00 01 00 00 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a ff ff 00 00 ff ff 00 00 00 00 00 00 00 00
+                                       00 00 00 00 00 00 ff ff 00 00 ff ff 00 00 ff ff
+                                       00 00 00 00 ff ff 01 00 03 00 01 00 03 00 05 00
+                                       00 00 00 00 fb ff fb ff fd ff 01 00 01 00 03 00
+                                       03 00 03 00 01 00 03 00 01 00 00 00 00 00 02 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 02 00 04 00 02 00 ff ff fe ff fc ff fe ff
+                                       fe ff 01 00 01 00 00 00 ff ff 00 00 fb ff ff ff
+                                       02 00 04 00 0a 00 2b 00 00 00 14 00 18 00 13 00
+                                       fc ff fe ff f8 ff fe ff fe ff 00 00 fd ff ff ff
+                                       04 00 06 00 06 00 04 00 04 00 02 00 02 00 02 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 00 00 00 00 fe ff fe ff 00 00 00 00 00 00
+                                       00 00 03 00 04 00 03 00 00 00 01 00 ff ff ff ff
+                                       fd ff fc ff fd ff fc ff fd ff fc ff fd ff fc ff
+                                       ff ff ff ff 00 00 00 00 01 00 ff ff ff ff 00 00
+                                       00 00 01 00 00 00 fc ff f9 ff fa ff ff ff ff ff
+                                       fb ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 02 00 04 00 02 00 04 00 04 00 04 00 08 00
+                                       07 00 04 00 04 00 02 00 02 00 02 00 02 00 04 00
+                                       04 00 06 00 05 00 06 00 03 00 01 00 01 00 00 00
+                                       00 00 ff ff 01 00 01 00 01 00 03 00 03 00 01 00
+                                       03 00 05 00 02 00 02 00 06 00 05 00 02 00 00 00
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 00 00 fd ff fd ff fd ff ff ff fc ff 00 00
+                                       fd ff ff ff fe ff fc ff fe ff fc ff fe ff 00 00
+                                       00 00 ff ff fe ff fe ff fe ff fe ff 00 00 00 00
+                                       fd ff fd ff 00 00 00 00 00 00 04 00 02 00 db ff
+                                       f3 ff f4 ff f1 ff f0 ff f5 ff f8 ff fc ff fa ff
+                                       fc ff
+2018-02-04 21:12:19.580 TCP initiated: 84.203.176.34/6020
+2018-02-04 21:12:19.580 TCP connect error: 101
+2018-02-04 21:12:20.440 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fa ff fb ff fe ff fc ff fd ff fc ff fd ff
+                                       00 00 01 00 02 00 01 00 02 00 03 00 02 00 00 00
+                                       00 00 fe ff fc ff ff ff ff ff ff ff 00 00 00 00
+                                       01 00 00 00 00 00 fe ff fe ff 02 00 01 00 02 00
+                                       00 00 01 00 fd ff 00 00 fe ff fe ff 00 00 00 00
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 02 00 00 00 00 00 ff ff 00 00 ff ff
+                                       01 00 01 00 00 00 02 00 00 00 ff ff 00 00 02 00
+                                       00 00 fd ff fc ff fd ff fe ff fd ff 00 00 00 00
+                                       00 00 00 00 ff ff 00 00 ff ff 03 00 05 00 06 00
+                                       03 00 01 00 03 00 03 00 05 00 06 00 03 00 03 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 00 00 ff ff 00 00 00 00 00 00 ff ff 02 00
+                                       02 00 02 00 02 00 fd ff fd ff fd ff fd ff ff ff
+                                       fc ff fc ff fe ff fe ff fe ff 00 00 fd ff fd ff
+                                       fd ff fb ff f7 ff fd ff fd ff fd ff fb ff f9 ff
+                                       ff ff e8 ff f0 ff f3 ff f4 ff f7 ff f7 ff f7 ff
+                                       f7 ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 00 00 00 00 00 00 00 00 fe ff fe ff fc ff
+                                       fb ff fe ff fe ff fc ff f9 ff fc ff fd ff fc ff
+                                       fd ff 00 00 00 00 00 00 01 00 02 00 00 00 00 00
+                                       fc ff fb ff fa ff fb ff fc ff fd ff fc ff ff ff
+                                       02 00 03 00 00 00 00 00 03 00 00 00 00 00 01 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 03 00 01 00 03 00 01 00 03 00 05 00 06 00
+                                       05 00 04 00 08 00 09 00 0c 00 0d 00 0b 00 08 00
+                                       05 00 04 00 06 00 07 00 08 00 07 00 06 00 07 00
+                                       04 00 04 00 04 00 02 00 02 00 00 00 00 00 ff ff
+                                       01 00 05 00 02 00 04 00 02 00 02 00 ff ff fe ff
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b fb ff fd ff ff ff fe ff 03 00 09 00 0e 00
+                                       0b 00 0a 00 07 00 09 00 0c 00 09 00 08 00 03 00
+                                       00 00 ff ff 02 00 00 00 02 00 00 00 fd ff ff ff
+                                       fe ff 05 00 09 00 06 00 fd ff 00 00 04 00 04 00
+                                       04 00 06 00 06 00 08 00 03 00 05 00 f6 ff f9 ff
+                                       fd ff
+2018-02-04 21:12:30.460 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fe ff fe ff fe ff fc ff ff ff ff ff 00 00
+                                       00 00 fe ff fe ff 00 00 00 00 fc ff ff ff 02 00
+                                       00 00 01 00 ff ff 00 00 fe ff fe ff fc ff ff ff
+                                       02 00 01 00 00 00 00 00 01 00 04 00 03 00 00 00
+                                       01 00 02 00 03 00 06 00 05 00 02 00 01 00 00 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a ff ff 00 00 02 00 02 00 02 00 00 00 00 00
+                                       ff ff 00 00 02 00 02 00 00 00 02 00 02 00 00 00
+                                       02 00 04 00 00 00 fd ff fa ff fe ff ff ff 00 00
+                                       ff ff 00 00 02 00 00 00 00 00 00 00 ff ff fe ff
+                                       ff ff fe ff ff ff 00 00 ff ff 00 00 00 00 ff ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 00 00 00 00 fb ff fd ff 00 00 ff ff fc ff
+                                       00 00 ff ff fe ff 00 00 dd ff e1 ff e6 ff e9 ff
+                                       ef ff f6 ff f7 ff f5 ff 01 00 00 00 04 00 00 00
+                                       ff ff 00 00 ff ff 00 00 ff ff 00 00 02 00 02 00
+                                       02 00 02 00 00 00 ff ff 00 00 ff ff fe ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b ff ff 00 00 01 00 ff ff fd ff fe ff 02 00
+                                       01 00 ff ff ff ff fd ff fe ff 00 00 fe ff fe ff
+                                       fa ff f9 ff f6 ff fb ff 00 00 fe ff fe ff fc ff
+                                       f9 ff fc ff 00 00 00 00 01 00 02 00 05 00 04 00
+                                       05 00 00 00 00 00 03 00 04 00 03 00 04 00 05 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 02 00 02 00 06 00 05 00 04 00 04 00 02 00
+                                       04 00 04 00 04 00 04 00 06 00 05 00 02 00 02 00
+                                       04 00 04 00 02 00 04 00 06 00 05 00 04 00 04 00
+                                       04 00 08 00 09 00 08 00 05 00 04 00 04 00 06 00
+                                       05 00 02 00 00 00 fb ff fd ff fe ff ff ff fe ff
+                                       ff ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b ff ff 00 00 04 00 06 00 06 00 02 00 04 00
+                                       06 00 02 00 00 00 00 00 fd ff ff ff 02 00 02 00
+                                       00 00 f7 ff f7 ff ff ff 00 00 ff ff fc ff fc ff
+                                       fc ff fe ff fe ff 01 00 fe ff fa ff f8 ff fc ff
+                                       f8 ff fc ff 00 00 02 00 ff ff 04 00 04 00 04 00
+                                       08 00
+2018-02-04 21:12:40.500 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 03 00 02 00 01 00 ff ff ff ff ff ff ff ff
+                                       00 00 01 00 00 00 01 00 ff ff ff ff ff ff 00 00
+                                       fe ff fe ff 00 00 fc ff fb ff fc ff 00 00 00 00
+                                       00 00 01 00 00 00 01 00 ff ff ff ff 00 00 00 00
+                                       01 00 02 00 00 00 01 00 00 00 01 00 02 00 01 00
+                                       04 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a fe ff ff ff fe ff ff ff 00 00 02 00 02 00
+                                       02 00 02 00 02 00 02 00 00 00 00 00 02 00 02 00
+                                       02 00 00 00 00 00 ff ff 00 00 00 00 ff ff 00 00
+                                       02 00 02 00 04 00 06 00 05 00 06 00 03 00 03 00
+                                       05 00 02 00 02 00 02 00 04 00 02 00 00 00 02 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 05 00 03 00 03 00 01 00 03 00 00 00 fd ff
+                                       00 00 ff ff fe ff 01 00 00 00 00 00 02 00 02 00
+                                       04 00 02 00 00 00 f9 ff fb ff ff ff fe ff 00 00
+                                       ff ff fe ff 00 00 00 00 02 00 ff ff fc ff fa ff
+                                       f8 ff fa ff fa ff fe ff 00 00 ff ff 00 00 ff ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 09 00 09 00 0b 00 09 00 0b 00 07 00 fe ff
+                                       00 00 00 00 fe ff 00 00 00 00 03 00 00 00 00 00
+                                       01 00 00 00 fe ff fa ff f9 ff fe ff 02 00 fe ff
+                                       fe ff fe ff fe ff 00 00 fe ff 00 00 00 00 fe ff
+                                       fc ff ff ff ff ff 02 00 01 00 00 00 00 00 00 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 02 00 00 00 ff ff fc ff fb ff ff ff 01 00
+                                       03 00 03 00 01 00 01 00 03 00 01 00 01 00 01 00
+                                       01 00 01 00 03 00 03 00 05 00 00 00 00 00 fd ff
+                                       fc ff ff ff 01 00 00 00 02 00 02 00 02 00 00 00
+                                       ff ff 00 00 fd ff 00 00 02 00 00 00 00 00 ff ff
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 02 00 02 00 0c 00 0d 00 08 00 05 00 03 00
+                                       07 00 09 00 08 00 09 00 0c 00 09 00 0c 00 07 00
+                                       07 00 0b 00 0c 00 13 00 15 00 11 00 1d 00 0e 00
+                                       07 00 03 00 05 00 05 00 03 00 03 00 01 00 fe ff
+                                       00 00 ff ff 00 00 ff ff fe ff 00 00 fd ff ff ff
+                                       fe ff
+2018-02-04 21:12:45.580 Modem Firmware Version: 23.60
+2018-02-04 21:12:45.750 IMSI: 204043256290809
+2018-02-04 21:12:49.600 TCP initiated: 84.203.176.34/6020
+2018-02-04 21:12:49.600 TCP connect error: 101
+2018-02-04 21:12:50.710 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fe ff fc ff fd ff fc ff ff ff ff ff ff ff
+                                       ff ff ff ff 00 00 01 00 02 00 01 00 00 00 01 00
+                                       00 00 01 00 02 00 01 00 02 00 00 00 01 00 00 00
+                                       fe ff fc ff fb ff fc ff fd ff 00 00 00 00 fe ff
+                                       00 00 00 00 fe ff fe ff 00 00 fe ff 02 00 03 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a ff ff 00 00 02 00 00 00 00 00 02 00 02 00
+                                       04 00 00 00 00 00 00 00 ff ff 00 00 ff ff fe ff
+                                       ff ff 00 00 02 00 02 00 02 00 02 00 02 00 00 00
+                                       ff ff 00 00 ff ff 00 00 ff ff 00 00 ff ff 01 00
+                                       00 00 00 00 02 00 02 00 00 00 00 00 00 00 ff ff
+                                       fc ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a fa ff fc ff fc ff 00 00 fd ff fd ff 00 00
+                                       02 00 04 00 04 00 00 00 ff ff fe ff 01 00 00 00
+                                       00 00 00 00 ff ff fc ff fc ff 00 00 00 00 02 00
+                                       02 00 02 00 ff ff fe ff fe ff 00 00 ff ff 02 00
+                                       06 00 04 00 06 00 06 00 04 00 04 00 04 00 04 00
+                                       02 00
+2018-02-04 21:12:52.050 GPRS connection initiated
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 03 00 02 00 00 00 00 00 00 00 fe ff fe ff
+                                       fe ff 00 00 01 00 02 00 01 00 02 00 03 00 02 00
+                                       01 00 00 00 01 00 00 00 01 00 00 00 fe ff fe ff
+                                       00 00 00 00 fe ff fe ff 00 00 00 00 fe ff 00 00
+                                       fe ff fe ff 00 00 00 00 00 00 01 00 ff ff ff ff
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b fb ff fd ff 00 00 ff ff 01 00 00 00 00 00
+                                       ff ff 00 00 00 00 00 00 ff ff 00 00 02 00 02 00
+                                       00 00 00 00 ff ff fe ff ff ff fe ff fd ff 00 00
+                                       00 00 fd ff fe ff ff ff 01 00 03 00 03 00 01 00
+                                       01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       ff ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 00 00 00 00 fd ff fd ff fb ff fb ff fd ff
+                                       ff ff 02 00 00 00 00 00 00 00 ff ff fe ff fe ff
+                                       00 00 02 00 00 00 04 00 04 00 02 00 02 00 04 00
+                                       02 00 04 00 04 00 06 00 04 00 04 00 02 00 ff ff
+                                       00 00 ff ff fc ff 00 00 ff ff 00 00 02 00 ff ff
+                                       fe ff
+2018-02-04 21:13:00.730 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fd ff 01 00 00 00 fe ff 00 00 00 00 fe ff
+                                       00 00 01 00 00 00 fe ff fc ff fd ff fe ff fc ff
+                                       ff ff ff ff ff ff 00 00 fe ff 00 00 fe ff 00 00
+                                       00 00 fe ff 00 00 fe ff fe ff fc ff ff ff ff ff
+                                       00 00 00 00 01 00 02 00 03 00 04 00 01 00 00 00
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a fe ff fd ff fe ff fd ff fe ff 00 00 00 00
+                                       ff ff 01 00 01 00 01 00 00 00 ff ff 01 00 00 00
+                                       ff ff 00 00 00 00 ff ff fe ff ff ff 00 00 02 00
+                                       00 00 00 00 00 00 ff ff 00 00 02 00 02 00 04 00
+                                       04 00 04 00 04 00 02 00 02 00 02 00 00 00 ff ff
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a fc ff fc ff fc ff fc ff fe ff fe ff 01 00
+                                       01 00 01 00 00 00 ff ff fe ff fe ff fc ff fc ff
+                                       fa ff fc ff fc ff fc ff fa ff fa ff fa ff fc ff
+                                       fc ff fa ff fa ff fe ff 01 00 00 00 00 00 00 00
+                                       00 00 ff ff fe ff fe ff 00 00 ff ff fc ff 00 00
+                                       00 00
+2018-02-04 21:13:02.410 GPRS connection established
+2018-02-04 21:13:02.510 GSM registration: roaming
+2018-02-04 21:13:03.050 GSM modem status string: Oper: +COPS: 0,0,"RO Vodafone RO",2, CSQ: +CSQ: 17,2
+2018-02-04 21:13:03.650 TCP initiated: 84.203.176.34/6020
+2018-02-04 21:13:03.650 TCP connect error: 101
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b fc ff fd ff 00 00 01 00 02 00 01 00 02 00
+                                       01 00 00 00 00 00 03 00 04 00 01 00 02 00 01 00
+                                       02 00 01 00 02 00 01 00 02 00 01 00 00 00 01 00
+                                       00 00 01 00 ff ff 02 00 01 00 ff ff ff ff fd ff
+                                       fc ff fb ff fe ff fe ff 00 00 00 00 00 00 01 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 00 00 02 00 04 00 02 00 02 00 04 00 04 00
+                                       02 00 00 00 ff ff 00 00 00 00 00 00 00 00 ff ff
+                                       00 00 00 00 ff ff 00 00 ff ff fc ff fb ff fd ff
+                                       fe ff ff ff fe ff fd ff fe ff ff ff 01 00 01 00
+                                       01 00 fe ff fd ff fe ff fd ff 00 00 00 00 ff ff
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 02 00 02 00 02 00 00 00 00 00 ff ff 02 00
+                                       02 00 00 00 00 00 04 00 02 00 00 00 00 00 02 00
+                                       02 00 02 00 02 00 00 00 00 00 ff ff fe ff fc ff
+                                       fc ff fe ff fe ff fe ff 00 00 fd ff ff ff fc ff
+                                       fc ff fc ff 00 00 00 00 fd ff ff ff 02 00 02 00
+                                       04 00
+2018-02-04 21:13:10.900 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a ff ff 00 00 00 00 fe ff fe ff 00 00 01 00
+                                       ff ff fd ff fe ff fc ff f9 ff fa ff fd ff fe ff
+                                       fc ff fd ff 00 00 01 00 02 00 00 00 01 00 02 00
+                                       03 00 04 00 05 00 04 00 03 00 02 00 03 00 02 00
+                                       03 00 02 00 03 00 02 00 01 00 ff ff 00 00 01 00
+                                       ff ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 ff ff fe ff ff ff fe ff ff ff fe ff
+                                       ff ff 01 00 fe ff ff ff 00 00 00 00 02 00 00 00
+                                       02 00 00 00 00 00 ff ff 00 00 00 00 ff ff 00 00
+                                       00 00 00 00 02 00 02 00 02 00 02 00 04 00 04 00
+                                       02 00 04 00 02 00 02 00 00 00 ff ff 00 00 02 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 00 00 ff ff 00 00 ff ff fc ff fc ff 00 00
+                                       ff ff fe ff fc ff fe ff 01 00 01 00 fe ff 01 00
+                                       01 00 fe ff 00 00 00 00 fb ff fb ff fb ff fb ff
+                                       fd ff 00 00 ff ff 00 00 00 00 00 00 00 00 ff ff
+                                       02 00 02 00 00 00 00 00 fd ff fd ff fb ff ff ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b ff ff 00 00 01 00 00 00 00 00 00 00 01 00
+                                       02 00 03 00 00 00 00 00 00 00 fe ff fc ff fd ff
+                                       00 00 fe ff fe ff fc ff fd ff fe ff 00 00 fe ff
+                                       02 00 01 00 00 00 01 00 00 00 00 00 00 00 01 00
+                                       00 00 00 00 fe ff fc ff ff ff 00 00 fe ff 00 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 00 00 00 00 00 00 00 00 ff ff fe ff 00 00
+                                       00 00 02 00 00 00 fd ff fc ff fd ff fe ff fb ff
+                                       fb ff fd ff fe ff ff ff fc ff fd ff fa ff fc ff
+                                       fb ff fd ff 00 00 00 00 00 00 02 00 00 00 02 00
+                                       02 00 02 00 02 00 02 00 00 00 ff ff 00 00 ff ff
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 00 00 00 00 00 00 ff ff 02 00 02 00 04 00
+                                       04 00 00 00 ff ff fe ff 01 00 00 00 00 00 00 00
+                                       fd ff ff ff fe ff fe ff 00 00 00 00 fd ff fb ff
+                                       fd ff ff ff fe ff 00 00 02 00 00 00 fd ff fb ff
+                                       ff ff 00 00 fd ff ff ff fc ff fc ff fa ff fa ff
+                                       fc ff
+2018-02-04 21:13:21.000 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fc ff fd ff 00 00 00 00 00 00 00 00 01 00
+                                       04 00 05 00 04 00 05 00 02 00 01 00 00 00 00 00
+                                       00 00 01 00 00 00 fe ff fe ff 00 00 fe ff fe ff
+                                       fe ff 00 00 01 00 00 00 00 00 00 00 00 00 01 00
+                                       00 00 fe ff fe ff fe ff fc ff fd ff fc ff fd ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 00 00 04 00 04 00 04 00 02 00 02 00
+                                       04 00 06 00 03 00 03 00 01 00 01 00 00 00 ff ff
+                                       00 00 02 00 00 00 ff ff 01 00 01 00 00 00 00 00
+                                       ff ff 00 00 00 00 ff ff 00 00 00 00 00 00 00 00
+                                       00 00 02 00 00 00 00 00 ff ff 03 00 03 00 03 00
+                                       03 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a fd ff ff ff fc ff fe ff 00 00 ff ff fe ff
+                                       00 00 02 00 02 00 00 00 02 00 02 00 02 00 00 00
+                                       ff ff 00 00 ff ff fe ff fe ff fe ff fc ff fe ff
+                                       00 00 ff ff 02 00 00 00 ff ff fe ff 01 00 01 00
+                                       01 00 fe ff fe ff 00 00 00 00 00 00 00 00 ff ff
+                                       fe ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 01 00 02 00 03 00 00 00 fe ff 00 00 00 00
+                                       00 00 01 00 02 00 03 00 04 00 05 00 02 00 03 00
+                                       02 00 03 00 00 00 01 00 02 00 01 00 02 00 03 00
+                                       02 00 00 00 00 00 fc ff fd ff fa ff fb ff fa ff
+                                       f9 ff fc ff fd ff fe ff fe ff 00 00 01 00 00 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 01 00 01 00 00 00 00 00 00 00 02 00 00 00
+                                       ff ff fc ff f9 ff f9 ff fb ff fb ff fd ff fe ff
+                                       00 00 ff ff 01 00 01 00 01 00 00 00 ff ff 00 00
+                                       04 00 00 00 00 00 00 00 00 00 00 00 ff ff 00 00
+                                       ff ff 00 00 ff ff fe ff 00 00 00 00 02 00 02 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b fe ff fe ff 00 00 00 00 ff ff 00 00 ff ff
+                                       fe ff 00 00 ff ff fe ff fe ff fc ff fc ff fe ff
+                                       fc ff fc ff fe ff fe ff fc ff fc ff fc ff fe ff
+                                       fe ff fe ff fa ff fa ff f8 ff fa ff fa ff fa ff
+                                       f8 ff fe ff fe ff fe ff fc ff fc ff fe ff fe ff
+                                       fe ff
+2018-02-04 21:13:31.060 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 04 00 03 00 04 00 03 00 02 00 03 00 04 00
+                                       03 00 04 00 03 00 02 00 01 00 02 00 01 00 ff ff
+                                       00 00 00 00 01 00 00 00 00 00 01 00 00 00 01 00
+                                       00 00 00 00 fe ff fe ff 00 00 00 00 fe ff 00 00
+                                       fe ff fc ff fb ff f8 ff f7 ff fa ff fb ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 ff ff fe ff ff ff 01 00 00 00 00 00
+                                       02 00 02 00 00 00 00 00 ff ff 00 00 ff ff 01 00
+                                       01 00 01 00 00 00 00 00 ff ff fe ff ff ff fe ff
+                                       ff ff fe ff ff ff fe ff fd ff fe ff fd ff fe ff
+                                       fd ff fc ff fd ff fe ff fd ff fc ff fd ff fc ff
+                                       fb ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 00 00 ff ff fe ff 00 00 02 00 02 00 02 00
+                                       00 00 00 00 02 00 04 00 02 00 fd ff ff ff 00 00
+                                       ff ff fe ff fe ff 00 00 00 00 00 00 ff ff 00 00
+                                       ff ff fc ff fc ff fe ff 00 00 ff ff 00 00 00 00
+                                       02 00 ff ff 00 00 ff ff fe ff fe ff 01 00 01 00
+                                       01 00
+2018-02-04 21:13:33.660 TCP initiated: 84.203.176.34/6020
+2018-02-04 21:13:33.890 TCP connection: 84.203.176.34/6020
+2018-02-04 21:13:34.100 DbgEvent: 202 - Unknown
+2018-02-04 21:13:34.100 DbgEvent: 203 - Unknown
+2018-02-04 21:13:34.180 DbgEvent: 204 - Unknown
+2018-02-04 21:13:34.180 Protocol msg processing timing: Average: 6 ms, Max: 6 ms, Interval Max: 6 ms
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 01 00 00 00 01 00 ff ff ff ff ff ff ff ff
+                                       00 00 00 00 fe ff fe ff 02 00 03 00 08 00 0a 00
+                                       0a 00 04 00 01 00 02 00 03 00 00 00 03 00 00 00
+                                       00 00 fe ff 00 00 01 00 00 00 01 00 00 00 00 00
+                                       00 00 00 00 fe ff 00 00 00 00 fe ff fc ff fd ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b fb ff fd ff 00 00 ff ff 00 00 00 00 02 00
+                                       02 00 02 00 08 00 07 00 0a 00 0b 00 0a 00 07 00
+                                       06 00 05 00 06 00 03 00 05 00 04 00 06 00 01 00
+                                       03 00 03 00 05 00 06 00 05 00 02 00 02 00 02 00
+                                       02 00 02 00 02 00 04 00 04 00 02 00 04 00 04 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 03 00 00 00 00 00 00 00 ff ff 00 00 00 00
+                                       fd ff ff ff 02 00 00 00 00 00 fd ff ff ff fe ff
+                                       fc ff fe ff 01 00 00 00 02 00 00 00 04 00 04 00
+                                       04 00 02 00 00 00 02 00 00 00 02 00 02 00 ff ff
+                                       00 00 ff ff fa ff fe ff fe ff fc ff fc ff fa ff
+                                       fc ff
+2018-02-04 21:13:41.110 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 00 00 00 00 03 00 04 00 05 00 04 00 05 00
+                                       04 00 05 00 02 00 01 00 ff ff ff ff ff ff ff ff
+                                       00 00 01 00 00 00 fe ff fe ff fe ff 00 00 fe ff
+                                       fe ff 00 00 00 00 01 00 02 00 01 00 ff ff ff ff
+                                       fd ff fc ff ff ff 00 00 00 00 01 00 00 00 01 00
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 04 00 04 00 02 00 00 00 ff ff 00 00 00 00
+                                       00 00 ff ff 00 00 ff ff 00 00 ff ff 00 00 02 00
+                                       02 00 04 00 02 00 02 00 00 00 00 00 ff ff fe ff
+                                       ff ff fe ff 02 00 04 00 04 00 06 00 05 00 06 00
+                                       05 00 02 00 02 00 02 00 00 00 ff ff 01 00 03 00
+                                       03 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 00 00 ff ff fe ff 00 00 ff ff 02 00 00 00
+                                       ff ff 00 00 00 00 00 00 ff ff fe ff 00 00 00 00
+                                       ff ff 00 00 04 00 02 00 02 00 00 00 00 00 fd ff
+                                       fd ff fb ff fb ff fd ff ff ff fc ff fa ff fe ff
+                                       00 00 ff ff fc ff fc ff fc ff fc ff fe ff 01 00
+                                       01 00
+2018-02-04 21:13:41.380 Logged Periodic Report: GPS ExtPower FMSFault VehicleStatus
+                        Ignition(engine): Off Alert1(alert): Off  Alert2: Off
+                        GPS: connected   No-fix
+                        Odometer: FMS: 0.0  GPS: 0.0
+                        0 Active Trouble Code(s)
+                        Idle: Inactive;PTO: Inactive;Harsh brake: Inactive;Serious overspeed: Inactive;
+                        Harsh cornering: Unkown;
+                        External Battery Voltage: 13.00 V
+                        Internal Battery Voltage: 0.00 V
+                        IMSI: 204043256290809 
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b 00 00 01 00 00 00 fe ff 02 00 01 00 02 00
+                                       01 00 ff ff fd ff fe ff fe ff fc ff fd ff fc ff
+                                       ff ff ff ff fd ff fc ff fd ff fc ff ff ff fd ff
+                                       fc ff fd ff fc ff f9 ff fa ff fd ff fc ff fb ff
+                                       fe ff 02 00 01 00 04 00 03 00 00 00 00 00 fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 01 00 01 00 03 00 03 00 05 00 02 00 00 00
+                                       ff ff 00 00 02 00 02 00 04 00 02 00 02 00 02 00
+                                       04 00 06 00 05 00 02 00 04 00 02 00 ff ff 01 00
+                                       01 00 00 00 00 00 ff ff 01 00 01 00 fe ff fd ff
+                                       fe ff ff ff fe ff fd ff fc ff fb ff fd ff fc ff
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 01 00 01 00 00 00 fd ff ff ff 02 00 00 00
+                                       00 00 ff ff 00 00 ff ff 00 00 00 00 ff ff 02 00
+                                       00 00 ff ff fc ff fe ff fe ff fc ff f8 ff fc ff
+                                       fe ff 00 00 ff ff fe ff 01 00 01 00 fc ff fa ff
+                                       fc ff fc ff fe ff fc ff 00 00 ff ff fe ff 00 00
+                                       ff ff
+2018-02-04 21:13:50.250 Mobile Data: 17179 rx 16903 tx    8589 rx/min    8451 tx/min
+2018-02-04 21:13:51.210 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fe ff fc ff fd ff 00 00 00 00 01 00 00 00
+                                       fe ff 00 00 00 00 01 00 02 00 00 00 00 00 00 00
+                                       fe ff fe ff fc ff fd ff fc ff ff ff 00 00 01 00
+                                       02 00 01 00 00 00 fe ff fe ff fe ff fc ff ff ff
+                                       00 00 fe ff 00 00 fe ff fe ff fc ff fd ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 02 00 02 00 02 00 02 00 02 00 00 00 00 00
+                                       00 00 00 00 00 00 ff ff 00 00 02 00 02 00 02 00
+                                       04 00 04 00 02 00 00 00 02 00 04 00 02 00 00 00
+                                       ff ff fc ff f9 ff 00 00 02 00 00 00 00 00 02 00
+                                       04 00 02 00 02 00 00 00 00 00 00 00 02 00 00 00
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 02 00 00 00 fd ff 00 00 00 00 fd ff fd ff
+                                       fd ff fb ff ff ff 00 00 f9 ff fb ff fb ff fb ff
+                                       fb ff fd ff fb ff fd ff fb ff 08 00 05 00 05 00
+                                       01 00 00 00 02 00 00 00 04 00 02 00 04 00 08 00
+                                       09 00 0a 00 0b 00 08 00 03 00 05 00 05 00 01 00
+                                       fc ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b fe ff fe ff 00 00 fe ff 00 00 03 00 02 00
+                                       00 00 01 00 00 00 01 00 00 00 01 00 ff ff 00 00
+                                       01 00 00 00 00 00 01 00 02 00 00 00 00 00 fe ff
+                                       fe ff fe ff fc ff ff ff fd ff fc ff ff ff fd ff
+                                       fe ff 02 00 01 00 ff ff fb ff fc ff fb ff fa ff
+                                       f9 ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b fe ff ff ff fe ff fd ff 00 00 00 00 04 00
+                                       04 00 06 00 03 00 01 00 01 00 03 00 03 00 01 00
+                                       03 00 03 00 03 00 03 00 03 00 05 00 02 00 04 00
+                                       02 00 02 00 02 00 ff ff 00 00 ff ff 01 00 00 00
+                                       02 00 00 00 ff ff fe ff 00 00 ff ff fe ff ff ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b fc ff fc ff fe ff fe ff fe ff 01 00 03 00
+                                       01 00 01 00 00 00 00 00 ff ff fc ff fa ff fa ff
+                                       fa ff fc ff fe ff 01 00 01 00 00 00 ff ff fe ff
+                                       fc ff 00 00 00 00 fd ff fd ff 00 00 00 00 ff ff
+                                       fe ff fe ff 00 00 00 00 ff ff 00 00 00 00 ff ff
+                                       fc ff
+2018-02-04 21:14:01.230 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fd ff fe ff 00 00 01 00 ff ff 00 00 00 00
+                                       00 00 03 00 04 00 03 00 04 00 03 00 04 00 03 00
+                                       04 00 01 00 00 00 00 00 fe ff fe ff fc ff fb ff
+                                       fe ff 00 00 03 00 00 00 fc ff fd ff fe ff fc ff
+                                       fd ff fc ff fb ff fc ff ff ff 00 00 00 00 01 00
+                                       fd ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 01 00 00 00 ff ff fe ff 02 00 00 00 00 00
+                                       02 00 00 00 00 00 04 00 06 00 05 00 00 00 02 00
+                                       04 00 04 00 02 00 00 00 02 00 04 00 02 00 04 00
+                                       06 00 07 00 08 00 09 00 06 00 07 00 04 00 00 00
+                                       00 00 fd ff fe ff fd ff fe ff fd ff fe ff ff ff
+                                       03 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a fc ff fa ff fa ff fc ff fe ff fe ff fc ff
+                                       fe ff 01 00 fe ff 00 00 02 00 00 00 fb ff 0a 00
+                                       0f 00 0c 00 0d 00 0a 00 09 00 06 00 08 00 07 00
+                                       09 00 06 00 04 00 00 00 ff ff fc ff fe ff 01 00
+                                       00 00 fb ff f9 ff fb ff fb ff fb ff f9 ff ff ff
+                                       04 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b fe ff fe ff fe ff fe ff fe ff fc ff fd ff
+                                       fc ff ff ff ff ff 00 00 00 00 01 00 00 00 00 00
+                                       00 00 00 00 00 00 fe ff fe ff fe ff fe ff 00 00
+                                       01 00 02 00 03 00 00 00 01 00 ff ff 00 00 01 00
+                                       ff ff ff ff 00 00 01 00 00 00 00 00 01 00 00 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 05 00 04 00 06 00 03 00 03 00 05 00 04 00
+                                       06 00 05 00 06 00 05 00 04 00 02 00 02 00 02 00
+                                       02 00 02 00 00 00 00 00 02 00 00 00 02 00 02 00
+                                       06 00 05 00 04 00 04 00 02 00 02 00 00 00 fd ff
+                                       fe ff fd ff fc ff fd ff 00 00 00 00 02 00 04 00
+                                       02 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 02 00 00 00 00 00 ff ff 00 00 fb ff ff ff
+                                       00 00 02 00 04 00 04 00 06 00 06 00 04 00 04 00
+                                       02 00 02 00 02 00 04 00 04 00 02 00 ff ff fe ff
+                                       11 00 13 00 0f 00 0e 00 0b 00 08 00 0b 00 06 00
+                                       04 00 00 00 00 00 fd ff ff ff 00 00 00 00 fd ff
+                                       ff ff
+2018-02-04 21:14:50.350 Mobile Data: 20700 rx 27750 tx    3521 rx/min   10847 tx/min
+2018-02-04 21:17:19.410 External Battery Voltage: 13.250 V
+2018-02-04 21:17:19.410 Internal Battery Voltage: 0.00 V
+2018-02-04 21:17:19.410 T:6-02 L:03 P: 18 82 00
+2018-02-04 21:17:19.420 Log queue latency: Average: 15 ms, Max: 204 ms, Interval Max: 204 ms
+2018-02-04 21:17:19.420 GPS No-Fix (Short)GPS Fix Type: UNKNOWN
+2018-02-04 21:17:19.430 Mobile Data: 24685 rx 31696 tx    1604 rx/min    1588 tx/min
+2018-02-04 21:17:19.440 Log write timing: Average: 12 ms, Max: 254 ms, Interval Max: 254 ms
+2018-02-04 21:18:47.470 Logged Periodic Report: GPS ExtPower VehicleStatus
+                        Ignition(engine): Off Alert1(alert): Off  Alert2: Off
+                        GPS: connected   No-fix
+                        Odometer: FMS: 0.0  GPS: 0.0
+                        Idle: Inactive;PTO: Inactive;Harsh brake: Inactive;Serious overspeed: Inactive;
+                        Harsh cornering: Unkown;
+                        External Battery Voltage: 13.25 V
+                        Internal Battery Voltage: 0.00 V
+2018-02-04 21:19:19.520 Mobile Data: 24737 rx 31806 tx      26 rx/min      55 tx/min
+2018-02-04 21:20:21.010 GSM modem status string: Oper: +COPS: 0,0,"RO Vodafone RO",2, CSQ: +CSQ: 8,1
+2018-02-04 21:22:17.080 Protocol Msg Counts - Processed: 101, IMC Rx: 0, TCP Rx: 101, TCP Tx: 103, Queued: 0
+2018-02-04 21:22:28.390 External Battery Voltage: 13.250 V
+2018-02-04 21:22:28.390 Internal Battery Voltage: 0.00 V
+2018-02-04 21:22:28.390 T:6-02 L:03 P: 18 8a 00
+2018-02-04 21:22:28.390 Log queue latency: Average: 14 ms, Max: 204 ms, Interval Max: 32 ms
+2018-02-04 21:22:28.400 GPS No-Fix (Short)GPS Fix Type: UNKNOWN
+2018-02-04 21:22:28.400 Log write timing: Average: 8 ms, Max: 254 ms, Interval Max: 33 ms
+2018-02-04 21:24:19.320 Logged Periodic Report: GPS ExtPower VehicleStatus
+                        Ignition(engine): Off Alert1(alert): Off  Alert2: Off
+                        GPS: connected   No-fix
+                        Odometer: FMS: 0.0  GPS: 0.0
+                        Idle: Inactive;PTO: Inactive;Harsh brake: Inactive;Serious overspeed: Inactive;
+                        Harsh cornering: Unkown;
+                        External Battery Voltage: 13.25 V
+                        Internal Battery Voltage: 0.00 V
+2018-02-04 21:24:19.340 Mobile Data: 24737 rx 31916 tx       0 rx/min      22 tx/min
+2018-02-04 21:25:19.980 Mobile Data: 24789 rx 31916 tx      52 rx/min       0 tx/min
+2018-02-04 21:28:03.060 External Battery Voltage: 13.000 V
+2018-02-04 21:28:03.060 Log queue latency: Average: 5 ms, Max: 204 ms, Interval Max: 16 ms
+2018-02-04 21:28:03.070 Internal Battery Voltage: 0.00 V
+2018-02-04 21:28:03.070 T:6-02 L:03 P: 18 8d 00
+2018-02-04 21:28:03.080 Log write timing: Average: 8 ms, Max: 254 ms, Interval Max: 21 ms
+2018-02-04 21:29:20.260 Logged Periodic Report: GPS ExtPower VehicleStatus
+                        Ignition(engine): Off Alert1(alert): Off  Alert2: Off
+                        GPS: connected   No-fix
+                        Odometer: FMS: 0.0  GPS: 0.0
+                        Idle: Inactive;PTO: Inactive;Harsh brake: Inactive;Serious overspeed: Inactive;
+                        Harsh cornering: Unkown;
+                        External Battery Voltage: 13.00 V
+                        Internal Battery Voltage: 0.00 V
+2018-02-04 21:29:21.180 Mobile Data: 24789 rx 32026 tx       0 rx/min      27 tx/min
+2018-02-04 21:30:21.190 Mobile Data: 24841 rx 32026 tx      52 rx/min       0 tx/min
+2018-02-04 21:32:20.170 Protocol Msg Counts - Processed: 101, IMC Rx: 0, TCP Rx: 101, TCP Tx: 105, Queued: 0
+2018-02-04 21:33:20.130 External Battery Voltage: 13.000 V
+2018-02-04 21:33:20.130 Internal Battery Voltage: 0.00 V
+2018-02-04 21:33:20.140 T:6-02 L:03 P: 18 8f 00
+2018-02-04 21:33:20.140 Log queue latency: Average: 8 ms, Max: 204 ms, Interval Max: 16 ms
+2018-02-04 21:33:20.150 Log write timing: Average: 5 ms, Max: 254 ms, Interval Max: 24 ms
+2018-02-04 21:33:21.190 GSM modem status string: Oper: +COPS: 0,0,"RO Vodafone RO",2, CSQ: +CSQ: 16,1
+2018-02-04 21:34:20.120 Logged Periodic Report: GPS ExtPower VehicleStatus
+                        Ignition(engine): Off Alert1(alert): Off  Alert2: Off
+                        GPS: connected   No-fix
+                        Odometer: FMS: 0.0  GPS: 0.0
+                        Idle: Inactive;PTO: Inactive;Harsh brake: Inactive;Serious overspeed: Inactive;
+                        Harsh cornering: Unkown;
+                        External Battery Voltage: 13.00 V
+                        Internal Battery Voltage: 0.00 V
+2018-02-04 21:34:21.350 Mobile Data: 24841 rx 32136 tx       0 rx/min      27 tx/min
+2018-02-04 21:34:29.080 Protocol msg processing timing: Average: 6 ms, Max: 64 ms, Interval Max: 64 ms
+2018-02-04 21:34:55.210 GSM modem status string: Oper: +COPS: 0,0,"RO Vodafone RO",2, CSQ: +CSQ: 17,3
+2018-02-04 21:35:21.470 Mobile Data: 25707 rx 34147 tx     866 rx/min    2011 tx/min
+2018-02-04 21:35:44.220 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a fd ff 00 00 03 00 d7 ff fe ff 28 00 50 00
+                                       79 00 8b 00 79 00 69 00 5b 00 4d 00 41 00 38 00
+                                       30 00 2b 00 25 00 20 00 1b 00 15 00 12 00 11 00
+                                       0e 00 0a 00 06 00 07 00 05 00 02 00 01 00 02 00
+                                       00 00 00 00 00 00 01 00 00 00 00 00 fe ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 00 00 00 00 00 00 1e 00 20 00 16 00 f2 ff
+                                       cf ff a2 ff af ff bc ff c5 ff cd ff d4 ff da ff
+                                       da ff e2 ff ed ff f4 ff f4 ff f2 ff f5 ff f9 ff
+                                       fb ff ff ff fe ff ff ff 00 00 04 00 06 00 03 00
+                                       03 00 05 00 04 00 06 00 03 00 05 00 02 00 02 00
+                                       04 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 02 00 02 00 02 00 fd ff 06 00 06 00 14 00
+                                       34 00 12 00 10 00 10 00 0c 00 0d 00 12 00 10 00
+                                       0a 00 07 00 07 00 07 00 05 00 03 00 03 00 05 00
+                                       05 00 05 00 03 00 00 00 00 00 ff ff fe ff 00 00
+                                       fd ff 00 00 fd ff ff ff fe ff 00 00 02 00 00 00
+                                       ff ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b fe ff fe ff fc ff ff ff ff ff fd ff fe ff
+                                       00 00 00 00 fe ff 00 00 00 00 fe ff fe ff fe ff
+                                       fc ff fb ff fc ff fb ff fc ff fb ff fc ff ff ff
+                                       ff ff fd ff fe ff 00 00 00 00 fe ff fe ff 00 00
+                                       00 00 01 00 00 00 01 00 02 00 03 00 02 00 0b 00
+                                       07 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 06 00 07 00 06 00 03 00 03 00 01 00 01 00
+                                       03 00 03 00 00 00 00 00 04 00 02 00 04 00 04 00
+                                       06 00 05 00 08 00 07 00 08 00 07 00 08 00 07 00
+                                       08 00 05 00 04 00 06 00 05 00 06 00 07 00 04 00
+                                       04 00 06 00 07 00 06 00 05 00 04 00 04 00 16 00
+                                       35 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 00 00 fd ff fd ff fd ff fb ff fd ff fd ff
+                                       ff ff fe ff fe ff 00 00 00 00 ff ff 00 00 ff ff
+                                       00 00 02 00 00 00 ff ff fe ff fe ff fe ff 00 00
+                                       ff ff 00 00 fd ff fb ff fb ff fb ff fd ff fd ff
+                                       ff ff fe ff fe ff fe ff 01 00 fc ff 00 00 f7 ff
+                                       03 00
+2018-02-04 21:35:54.240 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 70 eb 1e eb 3a f4 9b f9 77 03 eb 0b 81 0e
+                                       e4 08 ad 07 a8 fe cd fa e0 f0 5c eb 0b e4 26 e1
+                                       e3 d5 a7 ce 1c ca d7 c0 d0 c9 2a cd db dc 60 e9
+                                       22 f5 f3 00 aa 0b 20 0f 41 14 02 0e 11 0b 9b fc
+                                       10 f2 f2 e8 a6 e0 37 e7 30 e9 66 f5 6b fe eb 09
+                                       71 08
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a 44 fa b6 fa fa fa 50 fb 11 fb 6e fa 7d fc
+                                       2e fc d1 fc 34 fd 6a fd 2c fd fb fc ed fc c6 fc
+                                       28 fc 30 fc b1 fe 54 ff 1c 00 3d 01 93 01 d5 01
+                                       58 02 5d 02 01 02 23 03 c5 03 a6 02 41 02 d2 ff
+                                       5b fe 57 fd bd fc 6a fd 22 fe a3 ff ed 00 8b 00
+                                       58 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a 71 14 d3 13 19 14 4c 14 c5 0d 37 08 87 09
+                                       1b 0e 2a 11 cd 18 40 1f 50 22 14 26 86 27 72 2a
+                                       56 27 f4 26 de 21 0b 1c 22 1b de 18 1f 17 fc 16
+                                       51 16 63 12 cd 0e 10 10 bc 0f a3 14 73 18 11 15
+                                       5d 16 d2 13 bc 15 f5 15 ff 13 94 17 78 1a 6b 17
+                                       34 19
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b ee 08 a0 ff 20 fe a5 02 be 01 32 f8 0e f3
+                                       aa e4 ad d8 80 dc 92 d8 a6 e3 d1 ea a7 ef 66 ec
+                                       17 f9 e7 01 b5 0d b2 17 1d 1e 2f 26 02 22 93 20
+                                       46 1e 0f 1f 52 1a 21 18 24 0f 39 0a 1c f9 f7 ed
+                                       b2 e8 c2 db 48 d0 c7 c6 f2 c5 32 bd c0 ca 3a d1
+                                       47 e1
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b d7 00 b1 ff a6 ff 1d 01 ef 01 15 01 f9 ff
+                                       56 00 b0 ff 3a 02 71 05 7d 05 cf 05 55 06 06 08
+                                       65 06 a8 05 e9 03 b0 02 fc 02 ef 01 fd 02 39 04
+                                       48 06 5d 08 d3 08 7f 09 fb 07 36 07 4f 07 e1 06
+                                       6d 09 e7 0a 0e 0a b0 08 4e 0b 50 0c b0 0c bc 0e
+                                       5f 0c
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 20 1a b8 1b 45 1d 91 1c 09 1f e4 1e c0 1f
+                                       8c 17 35 14 01 15 99 13 86 15 5e 16 71 16 7f 15
+                                       a4 14 ae 14 35 11 55 10 61 0c c7 06 3f 0a c8 0b
+                                       db 0c aa 0b a7 12 2b 15 92 1b e4 20 4a 1f 27 22
+                                       d5 20 61 1d 79 16 28 15 31 14 ef 0f 86 11 ae 12
+                                       a7 13
+2018-02-04 21:36:04.430 T:6-09 L:13 P: 09 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                       00 00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0a 20 05 33 04 58 03 c2 02 49 02 df 01 70 01
+                                       33 01 1a 01 e8 00 b8 00 a0 00 89 00 79 00 67 00
+                                       59 00 4d 00 43 00 3a 00 34 00 31 00 2c 00 22 00
+                                       1d 00 1d 00 19 00 15 00 10 00 09 00 07 00 09 00
+                                       05 00 06 00 03 00 02 00 01 00 ff ff fd ff fe ff
+                                       00 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0a b9 fc 73 fc 34 fc 54 fc 6e fc 95 fc bb fc
+                                       2b fd 8b fd dd fd 22 fe 61 fe 92 fe bf fe ea fe
+                                       0e ff 2d ff 48 ff 62 ff 79 ff 8b ff 9b ff a9 ff
+                                       b5 ff bf ff c8 ff d0 ff d9 ff e1 ff e6 ff ea ff
+                                       ee ff ef ff f0 ff f3 ff f4 ff f6 ff fc ff 01 00
+                                       01 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0a f0 05 6a 05 f1 04 0f 05 0e 05 9b 04 24 04
+                                       aa 03 59 03 d8 02 73 02 29 02 e4 01 a8 01 71 01
+                                       43 01 19 01 f6 00 d4 00 b8 00 9b 00 8a 00 77 00
+                                       67 00 59 00 4a 00 41 00 3b 00 32 00 2e 00 29 00
+                                       24 00 1e 00 19 00 14 00 0e 00 0b 00 06 00 08 00
+                                       07 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 00 0b fe ff 00 00 00 00 fe ff fc ff fd ff fc ff
+                                       ff ff ff ff fd ff 00 00 00 00 01 00 ff ff ff ff
+                                       fd ff 00 00 01 00 02 00 01 00 ff ff 00 00 00 00
+                                       00 00 fe ff 00 00 01 00 ff ff fb ff fc ff fd ff
+                                       fe ff fe ff 00 00 00 00 00 00 fe ff fa ff fb ff
+                                       fa ff
+-no-date-- ---no-time-- T:7-0f L:52 P: 01 0b 03 00 03 00 05 00 02 00 00 00 00 00 02 00
+                                       06 00 05 00 04 00 06 00 03 00 05 00 06 00 05 00
+                                       06 00 05 00 04 00 02 00 02 00 00 00 00 00 00 00
+                                       00 00 00 00 02 00 02 00 04 00 04 00 00 00 02 00
+                                       06 00 07 00 06 00 09 00 06 00 05 00 0a 00 09 00
+                                       0a 00
+-no-date-- ---no-time-- T:7-0f L:52 P: 02 0b 05 00 07 00 07 00 03 00 fe ff 00 00 02 00
+                                       00 00 00 00 02 00 04 00 04 00 02 00 02 00 04 00
+                                       02 00 ff ff 00 00 02 00 04 00 02 00 04 00 06 00
+                                       04 00 00 00 00 00 fb ff 08 00 09 00 06 00 06 00
+                                       06 00 06 00 06 00 06 00 04 00 04 00 02 00 02 00
+                                       ff ff
+2018-02-04 21:36:21.550 Mobile Data: 26607 rx 35185 tx   900 rx/min    1038 tx/min
