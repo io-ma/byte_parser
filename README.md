@@ -1,6 +1,8 @@
 # Byte Parser
 
 This script needs to parse chunks of hexes, order them in 3 PRE and  3 POST event columns and write them to an ouput file. 
+## Stage of the project: 
+🐓
 
 ## Files
 
